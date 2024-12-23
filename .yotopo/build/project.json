@@ -1,0 +1,18 @@
+{
+  "project": {
+    "template": "fem-cube-eleventy",
+    "title": "Escuis",
+    "name": "escuis",
+    "description": "Desc super duper",
+    "directory": "/home/ortiz/dev/test/yopo/escuis/.yotopo/escuis",
+    "author": {
+      "name": "Antonio Ortiz",
+      "username": "ortiz-antonio",
+      "url": "https://ortiz.studio"
+    },
+    "links": {
+      "repository": "git@github.com:ortiz-antonio/escuis.git",
+      "homepage": "https://ortiz-antonio.github.io/escuis"
+    }
+  }
+}
